@@ -12,9 +12,12 @@ jobs:
         run: |
             node -v
             npm -v
+<<<<<<< HEAD
       - name: python command
         run: |
           import platform
           print
           (paltform.processor())
         shell: python
+=======
+>>>>>>> 9410571493f1486e617eef0167b244aecd1b2f56
